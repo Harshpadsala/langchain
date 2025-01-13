@@ -1,0 +1,7 @@
+langchain-openai
+langchain
+langchain_core
+langchain_google_genai
+langchain_anthropic
+openai
+langchain_google_firestore
